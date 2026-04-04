@@ -4,7 +4,7 @@ import React from "react";
 function Navbar() {
   return (
     <nav>
-      <h2>TechCorp</h2>
+      <a href="/"><h1>TechCorp</h1></a>
       <ul>
         <li>Home</li>
         <li>About</li>
